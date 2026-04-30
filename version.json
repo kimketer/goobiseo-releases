@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "minVersion": "1.0.0",
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.0.0/구비서.exe",
+  "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.0.0/gubiseo.exe",
   "changelog": "구비서 v2.0.0 최초 공개 배포\n- Google OAuth 2.0 PKCE 인증\n- AES-GCM 토큰 암호화\n- 에이전트 명령어 확인 팝업\n- 자동 업데이트 시스템",
   "announcement": null
 }
