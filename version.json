@@ -1,4 +1,7 @@
 {
   "version": "2.0.0",
-  "url": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.0.0/gubiseo.exe"
+  "minVersion": "2.0.0",
+  "forceUpdate": false,
+  "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.0.0/gubiseo.exe",
+  "changelog": "초기 릴리스"
 }
