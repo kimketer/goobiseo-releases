@@ -3,5 +3,6 @@
   "minVersion": "2.0.0",
   "forceUpdate": false,
   "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.0.0/gubiseo.exe",
+  "sha256": "73bb2d8347b7ccbb8fead2a199a718927796cbfbbd86ade80e016ebf2354d460",
   "changelog": "초기 릴리스"
 }
