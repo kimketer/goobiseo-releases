@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "minVersion": "2.0.0",
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.1.0/gubiseo.exe",
-  "sha256": "4b031d767b86dfcc02c7bdbac0c9a6d31333a24f439bc6ebbb1ac7d37ee08176",
-  "changelog": "• 셋업 위자드에 Google AI 계정 로그인(3단계) 추가\n• 다른 PC에서 'Gemini CLI 로그인 필요' 오류 자동 해결\n• 초기 설치 경험 개선"
+  "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.1.1/gubiseo.exe",
+  "sha256": "584bfb226dd814211b20d02df8b425984a1db1f18af6b548545d328e756a40e5",
+  "changelog": "• Google AI 로그인 'exit status 41' 오류 수정\n• Gemini CLI가 조기 종료해도 브라우저 인증을 끝까지 대기\n• 로그인 타임아웃 3분→5분으로 연장\n• 진행 상태 메시지 개선"
 }
