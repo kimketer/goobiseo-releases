@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "minVersion": "2.0.0",
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.1.1/gubiseo.exe",
-  "sha256": "584bfb226dd814211b20d02df8b425984a1db1f18af6b548545d328e756a40e5",
-  "changelog": "• Google AI 로그인 'exit status 41' 오류 수정\n• Gemini CLI가 조기 종료해도 브라우저 인증을 끝까지 대기\n• 로그인 타임아웃 3분→5분으로 연장\n• 진행 상태 메시지 개선"
+  "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.1.2/gubiseo.exe",
+  "sha256": "466adb634583b7bcbd23ee07a8697a013fbcd19b589c05e1556b60ee265af529",
+  "changelog": "• 3단계 로그인에서 브라우저가 열리지 않던 문제 수정\n• Gemini CLI에 새 콘솔 창을 부여하여 TTY 제공 (브라우저가 정상적으로 열림)\n• gemini.cmd 우선 사용으로 npm 표준 invocation 적용\n• 안내 메시지 개선"
 }
