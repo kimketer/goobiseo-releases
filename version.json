@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "minVersion": "2.0.0",
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.0.0/gubiseo.exe",
-  "sha256": "35378a1947f80d393f5aaeecf1e8fafd7acef16dbdfe5c198c92749e20ac8113",
-  "changelog": "초기 릴리스"
+  "downloadUrl": "https://github.com/kimketer/goobiseo-releases/releases/download/v2.1.0/gubiseo.exe",
+  "sha256": "4b031d767b86dfcc02c7bdbac0c9a6d31333a24f439bc6ebbb1ac7d37ee08176",
+  "changelog": "• 셋업 위자드에 Google AI 계정 로그인(3단계) 추가\n• 다른 PC에서 'Gemini CLI 로그인 필요' 오류 자동 해결\n• 초기 설치 경험 개선"
 }
